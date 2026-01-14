@@ -1,4 +1,4 @@
-import React, { useState, useRef, useLayoutEffect } from "react";
+import { useState, useRef } from "react";
 
 interface Task {
   new_task: string;
